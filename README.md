@@ -111,4 +111,3 @@ CREATE TABLE zepto (
 
 - Measured total inventory weight per product category
 
-
